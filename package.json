@@ -41,7 +41,7 @@
     "@babel/runtime": "^7.8.7",
     "angular": "^1.2.30",
     "core-js": "^3.6.4",
-    "jquery": "^1.12.4"
+    "jquery": "^3.4.1"
   },
   "sideEffects": [
     "*.less",
