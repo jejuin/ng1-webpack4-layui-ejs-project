@@ -1,5 +1,7 @@
-# ng1-webpack4-layui-ejs-project
+# 介绍
 Angular1.2.30 + Webpack4 + EJS + Babel + Layui 多页面项目 Demo，兼容IE8。
+
+>如果该 DEMO 对你有所帮助，还请给个 Star 哟~，如果有问题欢迎提 Issues 交流。
 
 ## 技术栈
  1. JavaScript 框架：Angular1.2.30
@@ -31,3 +33,5 @@ Angular1.2.30 + Webpack4 + EJS + Babel + Layui 多页面项目 Demo，兼容IE8�
 
 ## Build
 执行 `npm run build` 命令，打包项目
+
+
