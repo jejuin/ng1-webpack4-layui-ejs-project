@@ -1,0 +1,23 @@
+{
+    "presets": [
+        [
+            "@babel/env",
+            {
+                "targets": {
+                    "browsers": [
+                        "> 0.25%",
+                        "ie >= 8"
+                    ]
+                },
+                "modules": "commonjs",
+                "useBuiltIns": "usage",
+                "corejs": "3"
+            }
+        ]
+    ],
+    "plugins": [
+        [
+            "@babel/plugin-transform-runtime"
+        ]
+    ]
+}

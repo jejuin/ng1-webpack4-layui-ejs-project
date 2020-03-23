@@ -1,0 +1,1 @@
+{"name":"vendors","content":{"./node_modules/jquery/dist/jquery.js":{"id":1,"buildMeta":{"providedExports":true}},"./node_modules/angular/index.js":{"id":2,"buildMeta":{"providedExports":true}},"./node_modules/angular/angular.js":{"id":3,"buildMeta":{"providedExports":true}}}}
